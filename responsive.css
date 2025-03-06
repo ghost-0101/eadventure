@@ -1,0 +1,30 @@
+
+
+/* Media Queries */
+@media (min-width: 768px) {
+    .hero-title {
+        font-size: 3rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.5rem;
+    }
+
+    .highlight-card, .malaysia-card, .package-card, .timeline-step, .testimonial-card, .team-card, .contact-info-card {
+        text-align: left;
+    }
+}
+
+@media (min-width: 992px) {
+    .hero-title {
+        font-size: 4rem;
+    }
+
+    .hero-subtitle {
+        font-size: 2rem;
+    }
+
+    .highlight-card, .malaysia-card, .package-card, .timeline-step, .testimonial-card, .team-card, .contact-info-card {
+        text-align: left;
+    }
+}
